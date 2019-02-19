@@ -11,8 +11,8 @@ $configdata = @{
 
     AllNodes = @(
 		@{
-            NodeName = "*"
-        }
+            		NodeName = "*"
+        	}
 		@{
 			NodeName = "prodServer"
 			Environment = "prod"

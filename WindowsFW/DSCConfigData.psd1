@@ -9,10 +9,10 @@
  
 $configdata = @{
 
-    AllNodes = @(
+	AllNodes = @(
 		@{
-            NodeName = "*"
-        }
+        		NodeName = "*"
+        	}	
 		@{
 			NodeName = "frontendServer"
 			Role = "web"
