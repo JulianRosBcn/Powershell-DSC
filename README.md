@@ -5,10 +5,11 @@ Collection of DSC pieces of code to automate specific tasks in Azure
 
 Updated Library:
 
-| Name											   		 	 										| Repo Folder  			| Last Update	  		|
-| -----------------------------------------------------	| -----------------	| ----------------- |
-| NewRelic Agents Automatic install & Registration  		| .\NewRelic    		| 02/19/2019				|
-| Windows Firewall Management 													| .\WindowsFW   		| 02/19/2019				|
-| Octopus Agents Registration														| .\Octopus					| 02/19/2019				|
+| Name											   		 	 										| Repo Folder  			| Description                                  | Last Update |
+| -----------------------------------------------------	| -----------------	| -------------------------------------------- | ----------- |
+| NewRelic Agents Automatic install & Registration  		| .\NewRelic    		| Installs and register APM and Infra Agents   | 02/19/2019  |
+| Windows Firewall Management 													| .\WindowsFW   		| Open FW Windows based on VM Role             | 02/19/2019  |
+| Octopus Agents Registration														| .\Octopus					| Register machine + Env, tenant and role cfg  | 02/19/2019  |
+| Domain Join with protected ADAccount									| .\DomainJoin			| Register in domain + Secure Domain Creds     | 02/19/2019  |
 
 
