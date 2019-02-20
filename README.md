@@ -11,5 +11,6 @@ Updated Library:
 | Windows Firewall Management 													| .\WindowsFW   		| Open FW Windows based on VM Role             | 02/19/2019  |
 | Octopus Agents Registration														| .\Octopus					| Register machine + Env, tenant and role cfg  | 02/19/2019  |
 | Domain Join with protected ADAccount									| .\DomainJoin			| Register in domain + Secure Domain Creds     | 02/19/2019  |
+| Install windows features specific for eveyr VM Role		| .\Features  			| Install SQL and WEB Features Reqs examples   | 02/20/2019  |
 
 
